@@ -8,4 +8,4 @@ The dataset contains 4242 images of flowers collected from data flicr, yandex im
 ## Languages Used
 Python
 <br />
-## Machine Learning Pipeline
+## Deep Learning Pipeline
