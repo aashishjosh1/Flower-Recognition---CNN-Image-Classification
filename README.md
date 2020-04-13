@@ -9,3 +9,5 @@ The dataset contains 4242 images of flowers collected from data flicr, yandex im
 Python
 <br />
 ## Deep Learning Pipeline
+
+Importing required libraries > Data Exploration > Initializing the CNN - adding Convolution, Max Pooling, Flattening Layers > Applying Image Augmentation  > Training the CNN on the images > Evaluating Model Performance
